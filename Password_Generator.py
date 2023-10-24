@@ -1,3 +1,4 @@
+# Random Passowrd Generator
 import string
 import random
 
@@ -30,5 +31,3 @@ elif option=="No" or option=="no":
 else:
     print("Invalid input\nPlease enter either 'yes' or 'no")
     
-
-
